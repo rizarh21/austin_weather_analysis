@@ -7,7 +7,7 @@ This project analyzes and visualizes the Austin weather data. Special thanks to 
 - Visualization data by using Matplotlib
 
 # Tools
-Python
-Pandas
-Matplotlib
-Scikit Learn
+- Python
+- Pandas
+- Matplotlib
+- Scikit Learn
